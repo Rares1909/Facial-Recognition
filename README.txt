@@ -11,3 +11,4 @@ La inceput in clasa Parameters se seteaza locatia fisierelor test si adnotarilor
 Rezultatele sunt salvate in fisierul rezultate (tot acolo si pentru task-ul bonus).
 In fisierul extra este tot codul folosit la proiect.
 descriptori: https://drive.google.com/file/d/12UHILT4mXzC-t9z9r_igcbL8XaNFNkHP/view?usp=drive_link
+weights: https://drive.google.com/file/d/12dEN-uKOp2sBUZLHcW6YAXFbzv1uxCw8/view?usp=drive_link
